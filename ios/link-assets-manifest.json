@@ -1,0 +1,49 @@
+{
+  "migIndex": 1,
+  "data": [
+    {
+      "path": "assets/fonts/Adamina-Regular.ttf",
+      "sha1": "7e89222e02124dcc1c7e815acee6cd9c25286063"
+    },
+    {
+      "path": "assets/fonts/Kadwa-Bold.ttf",
+      "sha1": "9900b158e8789343b8eca163b8391e5caab06ff8"
+    },
+    {
+      "path": "assets/fonts/Kadwa-Regular.ttf",
+      "sha1": "fc96d870e1754fc8caa6665b35434d018130c365"
+    },
+    {
+      "path": "assets/fonts/Kreon-Bold.ttf",
+      "sha1": "2dd32045a7948074710f49f0641157daad276130"
+    },
+    {
+      "path": "assets/fonts/Kreon-Light.ttf",
+      "sha1": "fd982327aaddb5b132cfd89424d2712f1cef4b51"
+    },
+    {
+      "path": "assets/fonts/Kreon-Medium.ttf",
+      "sha1": "80d1c38e869108189ba9c1ebe9b26127f4b0f5fc"
+    },
+    {
+      "path": "assets/fonts/Kreon-Regular.ttf",
+      "sha1": "b8260b022e093e9e3d276ce7e045e0dc1c44ec4c"
+    },
+    {
+      "path": "assets/fonts/Kreon-SemiBold.ttf",
+      "sha1": "74dcc1528e1a14c55f8a498d776b2f827a56b3b7"
+    },
+    {
+      "path": "assets/fonts/Lekton-Bold.ttf",
+      "sha1": "55ccea4eccda24ee9ff951b48a29bbe7ed704b7b"
+    },
+    {
+      "path": "assets/fonts/Lekton-Italic.ttf",
+      "sha1": "b0c88171ce33020372d50f5a858e18536dea5314"
+    },
+    {
+      "path": "assets/fonts/Lekton-Regular.ttf",
+      "sha1": "6d2a02fa8107d4f98238282cc4b3b411f9994da9"
+    }
+  ]
+}
